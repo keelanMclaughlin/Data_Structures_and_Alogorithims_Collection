@@ -64,7 +64,7 @@ Submitted files: `DoubleLinkedList.java`, `ArrayStack.java`, `DynamicStack.java`
 Submitted files: `DivideAndConquer.java`, `Greedy.java`, `MergeSort.java`, `QuickSort.java`, `HeapOfBinaryTries.java`, `Huffman.java`.
 
 | Task | Description |
-|---|---|---|
+|---|---|
 | 1.A — Divide & conquer | `fibonacci`, `search` (binary search), `hanoi` (Tower of Hanoi) — must follow the divide & conquer schema |
 | 1.B — Greedy | `activitySelection` (max set of non-overlapping activities), `makeChange` (greedy coin change) |
 | 2.A — Merge sort | `merge` and `mergesort` |

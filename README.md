@@ -51,7 +51,7 @@ src/main/java/
 
 Submitted files: `DoubleLinkedList.java`, `ArrayStack.java`, `DynamicStack.java`, `ArrayQueue.java`, `DynamicQueue.java`.
 
-| Task Description |
+| Task | Description |
 |---|---|
 | 1 — Linked list | Implement `List<Object>` as a doubly linked list: constructor, `prepend`, `getFirst`, `deleteFirst`, `append`, `getLast`, `deleteLast`, `empty` |
 | 2.A — Array stack | Implement `Stack<Object>` backed by a fixed-size array |
@@ -63,14 +63,14 @@ Submitted files: `DoubleLinkedList.java`, `ArrayStack.java`, `DynamicStack.java`
 
 Submitted files: `DivideAndConquer.java`, `Greedy.java`, `MergeSort.java`, `QuickSort.java`, `HeapOfBinaryTries.java`, `Huffman.java`.
 
-| Task | Points | Description |
+| Task | Description |
 |---|---|---|
-| 1.A — Divide & conquer | 4 | `fibonacci`, `search` (binary search), `hanoi` (Tower of Hanoi) — must follow the divide & conquer schema |
-| 1.B — Greedy | 4 | `activitySelection` (max set of non-overlapping activities), `makeChange` (greedy coin change) |
-| 2.A — Merge sort | 4 | `merge` and `mergesort` |
-| 2.B — Quicksort | 4 | `partition` (Hoare-style, in place) and `quicksort` |
-| 3.A — Heap of binary tries | 7.5 | `heapify`, constructor, `extractMin`, `insert` for a min-heap of `BinaryTrie` nodes |
-| 3.B — Huffman codes | 1.5 | `findOptimalCode`, building the optimal prefix code tree from the heap |
+| 1.A — Divide & conquer | `fibonacci`, `search` (binary search), `hanoi` (Tower of Hanoi) — must follow the divide & conquer schema |
+| 1.B — Greedy | `activitySelection` (max set of non-overlapping activities), `makeChange` (greedy coin change) |
+| 2.A — Merge sort | `merge` and `mergesort` |
+| 2.B — Quicksort | `partition` (Hoare-style, in place) and `quicksort` |
+| 3.A — Heap of binary tries | `heapify`, constructor, `extractMin`, `insert` for a min-heap of `BinaryTrie` nodes |
+| 3.B — Huffman codes | `findOptimalCode`, building the optimal prefix code tree from the heap |
 
 ## Provided vs. Implemented Files
 
